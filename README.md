@@ -1,4 +1,4 @@
-#Face Recognition App - Backend API
+## Face Recognition App - Backend API
 
 1. Clone this repo
 2. Run `npm install`
